@@ -69,3 +69,4 @@ For more information see [here](https://github.com/harrah/xsbt/wiki/Getting-Star
 For comments, questions, etc. please see the accompanying [blogpost](http://tech.damianhelme.com/scala-sbt-template).
 
 
+Add develop branch for testing
